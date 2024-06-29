@@ -22,7 +22,7 @@ The app opens with a 15 second test loaded up and ready to go. Alternatively, th
 The test begins when you start typing. Type the words that are shown on the screen until the timer reaches zero. Correctly typed characters will appear green, while incorrect characters will appear red. Once completed, the colour of the word changes. The current character will also be underlined, making it easy to keep track of your position.
 ### Results
 Once the test is finished, you will be given a score in words per minute (WPM). It is calculated by dividing the number of characters typed by 5 ('words per minute' in this app assumes 5-letter words), and then divided by the duration in minutes. Only correctly typed words are included.
-Along with the WPM, you will be provided with a percentage accuracy: the percent of the typed words which are correct.
+Along with the WPM, you will be provided with a percentage accuracy.
 
 ### Additional features
 - The top ten scores for each test category can be viewed by clicking the 'View Scores' button.
