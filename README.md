@@ -13,7 +13,7 @@ Features include:
 
 - Clone the repository
 - Install dependencies by using ```pip install -r requirements.txt``` while in the project's directory
-- Run using ```pyhon main.py```
+- Run using ```python main.py```
 
 ## Usage Guide
 ### Loading a Test
